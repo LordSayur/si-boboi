@@ -1,0 +1,6 @@
+- Enemies pattern for spawning
+- Difficulty level
+- Item system
+- Weapon duration with UI
+- Top health bar
+- Loot
